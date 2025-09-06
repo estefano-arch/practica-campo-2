@@ -1,9 +1,9 @@
 
-package caso1;
+package org.example.caso1;
 import java.util.Scanner;
-public class Caso1 {
 
-    
+public class UsuarioSimple {
+
     public static void main(String[] args) {
         /*  CASO 1: Lectura de datos simples con Scanner
 Consigna: Desarrolla un programa en Java que solicite datos por teclado usando la clase

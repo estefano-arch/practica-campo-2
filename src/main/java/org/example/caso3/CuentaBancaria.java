@@ -1,4 +1,4 @@
-package ejercicio3POO;
+package org.example.caso3;
 
 import java.util.Scanner;
 
